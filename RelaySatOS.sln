@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RelaySatOS", "RelaySatOS.csproj", "{08F2D61E-A603-4F8F-8900-16C5C5240642}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08F2D61E-A603-4F8F-8900-16C5C5240642}.Debug|x64.ActiveCfg = Debug|x64
+		{08F2D61E-A603-4F8F-8900-16C5C5240642}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39F54554-5746-4D21-8FF7-DAA7F2C0A2D6}
+	EndGlobalSection
+EndGlobal
